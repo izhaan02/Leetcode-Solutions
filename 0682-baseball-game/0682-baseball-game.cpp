@@ -40,7 +40,7 @@ public:
         }
         int sum=0;
         while(!st.empty()){
-            cout<<st.top()<<" ";
+            //cout<<st.top()<<" ";
             sum+=st.top();
             st.pop();
         }
