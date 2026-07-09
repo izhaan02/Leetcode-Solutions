@@ -24,9 +24,9 @@ public:
                     int first=st.top();
                     st.pop();
                     int sec=st.top();
-                    st.pop();
+                    //st.pop();
                     int newEle=first+sec;
-                    st.push(sec);
+                    //st.push(sec);
                     st.push(first);
                     st.push(newEle);
 
