@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -23,5 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
