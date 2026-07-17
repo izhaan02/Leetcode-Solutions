@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2487-remove-nodes-from-linked-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -70,9 +71,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
