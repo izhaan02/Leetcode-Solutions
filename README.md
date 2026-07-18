@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0494-target-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 ## Backtracking
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
