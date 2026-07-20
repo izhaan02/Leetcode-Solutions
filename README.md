@@ -119,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
