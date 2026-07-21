@@ -123,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0563-binary-tree-tilt](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0563-binary-tree-tilt](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0563-binary-tree-tilt](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 ## Graph Theory
 |  |
 | ------- |
