@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
