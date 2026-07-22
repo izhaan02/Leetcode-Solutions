@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
