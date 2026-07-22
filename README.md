@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Dynamic Programming
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
