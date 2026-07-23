@@ -30,13 +30,26 @@ public:
 
     }
 
+    void inorderDiff(TreeNode* root,TreeNode* &prev){
+        if(root==NULL) return;
+
+        inorderDiff(root->left,prev);
+        if(prev!=NULL) mini=min(mini,root->val-prev->val);
+        prev=root;
+        inorderDiff(root->right,prev);
+
+
+    }
+
 
     int minDiffInBST(TreeNode* root) {
-        solve(root);
+        // solve(root);
 
-        for(int i=1;i<inorder.size();i++){
-            mini=min(mini,inorder[i]-inorder[i-1]);
-        }
+        // for(int i=1;i<inorder.size();i++){
+        //     mini=min(mini,inorder[i]-inorder[i-1]);
+        // }
+        TreeNode* prev=NULL;
+        inorderDiff(root,prev);
 
         return mini;
     }
