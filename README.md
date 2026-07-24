@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/izhaan02/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
