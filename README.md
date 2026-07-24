@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
