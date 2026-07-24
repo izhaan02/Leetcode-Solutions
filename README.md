@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/izhaan02/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
