@@ -16,15 +16,16 @@ public:
             
             windowSum+=nums[right];
             currSize++;
+            isPresent[nums[right]]++;
 
-            while(isPresent.find(nums[right])!=isPresent.end() || currSize>k){
+            while(isPresent[nums[right]]>1 || currSize>k){
                 windowSum-=nums[left];
                 
-                isPresent.erase(nums[left]);
+                isPresent[nums[left]]--;
                 left++;
                 currSize--;
             }
-            isPresent[nums[right]]++;
+            
 
             if(currSize==k){
                 maxSum=max(maxSum,windowSum);
