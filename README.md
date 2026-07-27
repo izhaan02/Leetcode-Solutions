@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Queue
 |  |
