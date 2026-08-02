@@ -16,8 +16,8 @@ public:
                 }
                 else if(sum>cap){
                     days++;
-                    sum=arr[i];
-                    i++;
+                    sum=0;
+                    //i++;
                 }
                 else{
                     i++;
