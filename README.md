@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0494-target-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
