@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/izhaan02/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
