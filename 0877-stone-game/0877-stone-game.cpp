@@ -18,12 +18,38 @@ public:
         return dp[i][j]=max(choice1,choice2);
 
     }
+
+
+
+    int solveUsingTab(vector<int>&piles){
+        vector<vector<int>>dp(piles.size(),vector<int>(piles.size(),0));
+        for(int i=0;i<piles.size();i++){
+            dp[i][i]=piles[i];
+        }
+
+        for(int i=piles.size()-1;i>=0;i--){
+
+            for(int j=i+1;j<piles.size();j++){
+
+                int choice1=piles[i]-dp[i+1][j];
+                int choice2=piles[j]-dp[i][j-1];
+                dp[i][j]=max(choice1,choice2);
+
+            }
+        }
+        return dp[0][piles.size()-1];
+    }
+
+
+
+
     bool stoneGame(vector<int>& piles) {
 
         int i=0;
         int j=piles.size()-1;
         vector<vector<int>>dp(piles.size(),vector<int>(piles.size(),INT_MIN));
-        int ans=solveUsingMem(piles,i,j,dp);
+        //int ans=solveUsingMem(piles,i,j,dp);
+        int ans=solveUsingTab(piles);
 
         
         return ans>0;
