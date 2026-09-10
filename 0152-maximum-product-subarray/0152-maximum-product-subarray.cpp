@@ -1,19 +1,24 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int ans=INT_MIN;
-        int maxi=1;
-        int mini=1;
+        int maxP=1;
+        int minP=1;
+        int finalP=INT_MIN;
 
         for(int i=0;i<nums.size();i++){
 
-           if(nums[i]<0) swap(maxi,mini);
+            if(nums[i]<0)
+            swap(minP,maxP);
 
-           maxi=max(nums[i],maxi*nums[i]);
-           mini=min(nums[i],mini*nums[i]);
+            maxP=max(nums[i],maxP*nums[i]);
+            minP=min(nums[i],minP*nums[i]);
 
-           ans=max(ans,maxi);
+            
+
+            finalP=max(finalP,max(maxP,minP));
+            cout<<finalP<<endl;
+
         }
-        return ans;
+        return finalP;
     }
 };
