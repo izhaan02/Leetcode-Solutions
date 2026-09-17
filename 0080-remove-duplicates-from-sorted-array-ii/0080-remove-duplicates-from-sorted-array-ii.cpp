@@ -4,19 +4,17 @@ public:
         int read=0;
         int write=0;
 
-        while(read<nums.size()){
-            if(read>=2 && nums[read]==nums[write-2]){
-                //nums[write]=nums[read];
+        int n=nums.size();
+
+        while(read<n){
+            if(write-2>=0 && nums[read]==nums[write-2]){
                 read++;
-                //write++;
             }
-            else {
+            else{
                 nums[write]=nums[read];
-                read++;
                 write++;
+                read++;
             }
-                
-                
         }
         return write;
     }
